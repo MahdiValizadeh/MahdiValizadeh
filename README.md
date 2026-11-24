@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Mahdi
+# Hi, I'm Mahdi Valizadeh
 
-Network Engineer • DevOps Learner
+**Network & Security Engineer** — ISP-scale routing, enterprise firewall implementation, and Python network automation.
 
----
+## What I do
 
-## 📌 Choose your path to know me better
+- **Routing & troubleshooting:** OSPF, BGP, EIGRP, VRF and route redistribution across 5,000+ links and ~900 devices (Cisco, Nexus) at Respina, an ISP in Tehran. I isolate faults to Layer 2 or Layer 3 and to the exact segment.
+- **Security:** FortiGate implementation from scratch (policies, SD-WAN, address/service groups), GRE/IPIP branch tunnels, and SLA-based failover on MikroTik branch routers at Golrang Pharmaceutical Holding HQ.
+- **Automation:** Python tools for real network operations — monitoring, SSH-based config backup, alerting and reporting.
 
-| 🌐 **Network Engineer** | ISP operations, routing, troubleshooting | [مشاهده →](https://github.com/MahdiValizadeh/network-engineer-profile) |
+## Featured project
 
-| 🚀 **DevOps Journey** | Linux, Docker, CI/CD, automation | [مشاهده →](https://github.com/MahdiValizadeh/devops-learning-path) |
+**[NetPlus](https://github.com/MahdiValizadeh/NetPlus)** — Python network monitoring & automation: SQLite, Paramiko SSH, concurrent monitoring, device CLI, automated config backup, email/Telegram alerts, HTML reports.
 
----
+## Stack
 
-## ⚡ Quick Bio
+`Cisco` `FortiGate` `MikroTik` `Python` `Linux` `Docker` `Ansible` `Zabbix` `Grafana` `VMware`
 
-- ISP Network Engineer with real-world experience
-- Transitioning to DevOps through hands-on labs
-- Building automation skills on Linux
+## Certifications
+
+CCNA · CCNP (ENCOR, ENARSI) — Sematec
+
+📫 mmv21215@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohammadmahdi-valizadeh-527256382)
