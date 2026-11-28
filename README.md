@@ -4,7 +4,7 @@
 
 ## What I do
 
-- **Routing & troubleshooting:** OSPF, BGP, EIGRP, VRF and route redistribution across 5,000+ links and ~900 devices (Cisco, Nexus) at Respina, an ISP in Tehran. I isolate faults to Layer 2 or Layer 3 and to the exact segment.
+- **Routing & troubleshooting:** OSPF, BGP, EIGRP, VRF and route redistribution across around 5,000 links and about 900 devices (Cisco, Nexus) at Respina, an ISP in Tehran. I isolate faults to Layer 2 or Layer 3 and to the exact segment.
 - **Security:** FortiGate implementation from scratch (policies, SD-WAN, address/service groups), GRE/IPIP branch tunnels, and SLA-based failover on MikroTik branch routers at Golrang Pharmaceutical Holding HQ.
 - **Automation:** Python tools for real network operations — monitoring, SSH-based config backup, alerting and reporting.
 
